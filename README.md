@@ -48,8 +48,8 @@ The goal is to detect whether network traffic is **Normal (0)** or an **Attack (
            1       0.82      0.97      0.89     45332
 
     accuracy                           0.87     82332
-    macro avg       0.89      0.85      0.86     82332
-    weighted avg       0.88      0.87      0.86     82332
+    macro avg      0.89      0.85      0.86     82332
+    weighted avg   0.88      0.87      0.86     82332
 
  The model prioritizes detecting attacks (high recall), which is critical in cybersecurity.
 
@@ -68,5 +68,7 @@ The goal is to detect whether network traffic is **Normal (0)** or an **Attack (
 = Real-time network monitoring
 
  ## Author
+ 
 YONAS HABTAMU
+
 Data Science & Cybersecurity Student
